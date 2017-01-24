@@ -8,7 +8,8 @@ var gulp = require('gulp'),
     imageResize = require('gulp-image-resize'),
     parallel = require("concurrent-transform"),
     os = require("os"),
-    cp = require('child_process');
+    cp = require('child_process'),
+    ghPages = require('gulp-gh-pages');
 
 var messages = {
   jekyllBuild: '<span style="color: grey">Running:</span> $ jekyll build'
@@ -33,6 +34,14 @@ gulp.task('browser-sync', ['styles', 'jekyll-build'], function() {
     },
     startPath: "/index.html"
   });
+});
+
+/**
+ * Deploy
+ */
+gulp.task('deploy', function() {
+  return gulp.src('./dist/**/*')
+  .pipe(ghPages());
 });
 
 // To support opacity in IE 8
