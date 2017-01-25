@@ -37,9 +37,9 @@ gulp.task('browser-sync', ['styles', 'jekyll-build'], function() {
 });
 
 /**
- * Deploy
+ * Push build to gh-pages
  */
-gulp.task('deploy', function() {
+gulp.task('deploy',['jekyll-build'], function() {
   return gulp.src('./dist/**/*')
   .pipe(ghPages());
 });
