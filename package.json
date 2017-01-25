@@ -4,6 +4,7 @@
   "author": "Seve Kim",
   "scripts": {
     "start": "jekyll build && jekyll serve",
+    "build": "jekyll build",
     "deploy": "gulp deploy"
   },
   "repository": {
