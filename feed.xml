@@ -6,38 +6,5 @@
 		<link>site url</link>
 		<atom:link href="site url/feed.xml" rel="self" type="application/rss+xml" />
 		
-			<item>
-				<title>A Life of a QA</title>
-				
-				
-					<description>Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent...</description>
-				
-				<pubDate>Mon, 15 Dec 2014 01:00:00 +0000</pubDate>
-				<link>site url/a-life-of-walt-disney</link>
-				<guid isPermaLink="true">site url/a-life-of-walt-disney</guid>
-			</item>
-		
-			<item>
-				<title>Mickey Mouse</title>
-				
-				
-					<description>Mickey Mouse is a funny animal cartoon character and the official mascot of...</description>
-				
-				<pubDate>Fri, 28 Nov 2014 01:00:00 +0000</pubDate>
-				<link>site url/mickey-mouse</link>
-				<guid isPermaLink="true">site url/mickey-mouse</guid>
-			</item>
-		
-			<item>
-				<title>Television and later films</title>
-				
-				
-					<description>Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was...</description>
-				
-				<pubDate>Fri, 16 Dec 1983 01:00:00 +0000</pubDate>
-				<link>site url/television</link>
-				<guid isPermaLink="true">site url/television</guid>
-			</item>
-		
 	</channel>
 </rss>
