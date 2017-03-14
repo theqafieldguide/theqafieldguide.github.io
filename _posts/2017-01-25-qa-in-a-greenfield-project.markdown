@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Source: [image](http://lantruong.com/)
 
 Walter Elias "Walt" Disney (/ˈdɪzni/; December 5, 1901 – December 15, 1966) was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent figure within the American animation industry and throughout the world, he is regarded as a cultural icon, known for his influence and contributions to entertainment during the 20th century. As a Hollywood business mogul, he and his brother Roy O. Disney co-founded The Walt Disney Company.
 
@@ -24,8 +23,6 @@ As an animator and entrepreneur, Disney was particularly noted as a filmmaker an
 Disney died from lung cancer on December 15, 1966, in Burbank, California. He left behind a vast legacy, including numerous animated shorts and feature films produced during his lifetime; the company, parks, and animation studio that bear his name; and the California Institute of the Arts (CalArts).
 
 #### Childhood
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}walt-childhood.jpg);"></div>
 
 Disney was born on December 5, 1901, at 2156 North Tripp Avenue in Chicago's Hermosa community area, to Elias Charles Disney, who was Irish-Canadian, and Flora Call Disney, who was of German and English descent. His great-grandfather, Arundel Elias Disney, had emigrated from Gowran, County Kilkenny, Ireland where he was born in 1801. Arundel Disney was a descendant of Robert d'Isigny, a Frenchman who had travelled to England with William the Conqueror in 1066. With the d'Isigny name anglicized as "Disney", the family settled in the English village now known as Norton Disney, south of the city of Lincoln, in the county of Lincolnshire.
 
