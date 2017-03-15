@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Tester vs. QA: Tetris"
-date:   2017-01-01 01:00:00
+title:  "Tester vs QA: Tetris"
+date:   2017-03-14 01:00:00
 last_modified_at:  2017-01-25 01:00:00
 excerpt: "Comparing the typical waterfall tester to the agile QA in a battle of the blocks"
-categories: role
+categories: tester
 tags:  tester
 image:
   feature: tetris.jpg
@@ -23,7 +23,7 @@ If you can imagine yourself traveling back to playing the classic retro tetris a
 
 Let’s say within the time a developer is dropping blocks and time runs out and the round is over. It is my interpretation to think of a tester as someone who takes a look and critiques the laid blocks to ensure they are meeting all the business requirements as well as searching for bugs.
 
-<center>
+<br><center>
 <img src="{{site.baseurl_posts_img}}drmario.png"/>
 </center>
 
@@ -31,12 +31,14 @@ It is only after the fact that the tester assesses the work after the developer 
 
 #### QA
 
-The QA takes a more holistic approach to providing value to delivery. If you can remember, a window displayed on the right side of the screen to notify the player what block is coming up next. A QA would be working with the developer during the iteration to analyze the current feature implementation and finding issues in  as well as calling out risks.
+The QA takes a more holistic approach to providing value to delivery. If you can remember, a window displayed on the right side of the screen to notify the player what block is coming up next. A QA would be working with the developer during the iteration to analyze the current feature implementation and finding issues in  as well as calling out risks that might be coming up "next" or could affect future implementation.
 
+<br><center>
 <img src="{{site.baseurl_posts_img}}tetris_upNext.jpg"/>
+</center>
 
-
+This is definitely just a small part of what a QA is taking on throughout the iteration. Kenny Cruden gives a good overview of <a href="https://www.thoughtworks.com/insights/blog/qa-role-what-it-really">what QA is</a>.
 
 <blockquote class="largeQuote">"All QAs are testers, but not all testers are QAs."</blockquote>
 
-It goes without saying that the reason there is some confusion between a QA and a tester is because there is some overlap. A good QA will also take their take to check out post-development and proceed to conduct exploratory testing on the dev-finished work and provide that same feedback that a tester would.
+It goes without saying that the reason there is some confusion between a QA and a tester is because there is some overlap. A good QA will also take their take to check out post-development and proceed to conduct exploratory testing on the dev-finished work and provide that same feedback that a tester would. The role and responsibilities of a tester are encapsulated in QA.

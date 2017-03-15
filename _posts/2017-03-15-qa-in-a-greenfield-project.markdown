@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "QA in a Greenfield Project"
-date:   2017-01-25 01:00:00
+date:   2017-03-15 01:00:00
 last_modified_at:  2017-01-25 01:00:00
 excerpt: "The role of QA in a brand new project space has endless possibilities...and nothing to test..."
 categories: projects
